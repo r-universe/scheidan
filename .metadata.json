@@ -1,5 +1,9 @@
 [
   {
+    "package": "adaptMCMC",
+    "oncran": true
+  },
+  {
     "package": "WaMaSim",
     "oncran": true
   }
