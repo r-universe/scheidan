@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "WaMaSim"]
+	path = WaMaSim
+	url = https://github.com/scheidan/wamasim
 [submodule "adaptMCMC"]
 	path = adaptMCMC
 	url = https://github.com/scheidan/adaptmcmc
 	subdir = adaptMCMC
-[submodule "WaMaSim"]
-	path = WaMaSim
-	url = https://github.com/scheidan/wamasim
